@@ -1,0 +1,8 @@
+*.dll binary
+*.exe binary
+*.pdb binary
+*.manifest -text
+*.application -text
+*.deploy binary
+*.deps.json -text
+Application\ Files/** -text
